@@ -1,0 +1,24 @@
+2022-01-20
+123456789101234
+3
+Pepperoni
+13.37
+1
+Bolognese
+15.55
+1
+Coca - Cola
+5.99
+2
+2022-01-20
+1hgfjdghsk01234
+3
+Coca - Cola
+5.99
+2
+Bolognese
+15.55
+1
+Pepperoni
+13.37
+1
